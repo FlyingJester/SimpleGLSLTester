@@ -10,3 +10,6 @@ A test scene would be a nice addition.
 
 Only works if you have X11, I'm afraid. Win32 version planned soon. I don't want to include SDL or SMFL or anything else to handle 
 context creation just to do this.
+
+Requires Scons (and therefor Python 2.x), OpenGL 2.0 or greater (with headers), and a C++ compiler. I only test with gcc, fglrx 
+(ATI), and python 2.7.
