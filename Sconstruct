@@ -1,0 +1,1 @@
+Program( target = './gl-test', source = ['window.cpp', 'shaderuse.cpp', 'shaderload.cpp'], LIBS=['SDL2', 'GL', 'pthread', 'X11', 'dl'])
